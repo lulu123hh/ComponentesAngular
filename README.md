@@ -5,7 +5,7 @@ Hernández Hernández Maria de Lourdes
 ## 📚 Lista de Ejercicios
 
 ### 1️⃣
-![ima1](https://github.com/lulu123hh/ComponentesAngular/blob/e1b250fef7098dbf751b2a860df622e45c898207/ima1.png)
+![ima1](https://github.com/lulu123hh/ComponentesAngular/blob/main/ima1.png)
 ### 2
 ![Captura del home](https://github.com/lulu123hh/ComponentesAngular/blob/e1b250fef7098dbf751b2a860df622e45c898207/ima2.png)
 ## 3
