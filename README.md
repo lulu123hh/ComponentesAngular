@@ -6,7 +6,7 @@ Hernández Hernández Maria de Lourdes
 
 ### 1️⃣
 
-![ima1](<img width="922" height="192" alt="ima1" src="https://github.com/user-attachments/assets/7481d405-b133-42bd-a95b-c61b3900d9ec" />)
+![ima1](https://github.com/lulu123hh/imagenesangula1/blob/4dfa180f4b1925095580ee0546f16458474e4368/ima/ima1.png)
 ### 2
 ![Captura del home](https://github.com/lulu123hh/ComponentesAngular/blob/e1b250fef7098dbf751b2a860df622e45c898207/ima2.png)
 ## 3
